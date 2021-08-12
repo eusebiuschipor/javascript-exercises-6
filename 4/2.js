@@ -1,8 +1,4 @@
-/**
- * Task description: Write a method that creates a new array with given values
- * Expected Result: (3, 'a') => ['a', 'a', 'a']
- * Task Complexity: 1 of 5
- * @param {number} arraySize - size of array
- * @param {?} value - value to fill
- * @returns {Array}
- */
+/*
+    - When we click on the 'Show characters' button we need to show a string containg N characters (the value for N and the character is read from the input)
+    - Read a list of numbers in the 'Number' input and show impair numbers that are bigger than 10 in reversed order
+*/
